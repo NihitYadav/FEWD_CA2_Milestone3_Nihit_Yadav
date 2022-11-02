@@ -1,0 +1,150 @@
+*{
+    background-color: rgb(96, 90, 215);
+}
+#hey{
+    height: 80px;
+    width: 400px;
+    background-color: aquamarine;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2vh;
+}
+
+#hehe{
+    background-color: aquamarine;
+}
+
+#hey2{
+    font-size: 30px;
+    width: 150px;
+    background-color: lightskyblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 8vh;
+}
+
+#hey3{
+    font-size: 30px;
+    width: 100px;
+    background-color: lightcoral;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5vh;
+}
+
+#hey4{
+    height: 45vh;
+    width: 100vh;
+    background-color: antiquewhite;
+    margin-top: 6vh;
+    display: flex;
+    flex-direction: column;
+    margin-left: 400px;
+}
+
+#hehe1{
+    background-color: antiquewhite;
+}
+
+#hehe2{
+    background-color: antiquewhite;
+}
+
+#hehe3{
+    background-color: antiquewhite;
+}
+
+#hehe4{
+    background-color: antiquewhite;
+}
+
+#hehe5{
+    background-color: antiquewhite;
+}
+
+.hey1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#hey5{
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#hey6{
+    display: flex;
+    height: 200px;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.hey7{
+    font-size: 20px;
+    background-color: antiquewhite;
+}
+
+.heya{
+    display: flex;
+    flex-direction: column;
+    font-size: 4vh;
+    justify-content: flex-end;
+    width: 200px;
+    height: 14vh;
+    padding-left: 160vh;
+}
+
+#heya1{
+    display: flex;
+}
+
+#heya2{
+    display: flex;
+    align-items: flex-start;
+    padding-top: 10px;
+}
+
+.he{
+    display: flex;
+    font-size: 60px;
+    background-color: aqua;
+    width: 1000px;
+    height: 250px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 250px;
+    margin-top: 50px;
+}
+.he1{
+    display: flex;
+    font-size: 50px;
+    background-color: rgba(209, 58, 50, 0.826);
+    width: 700px;
+    height: 200px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+
+#he2{
+    display: flex;
+    font-size: 30px;
+    background-color: lightsalmon;
+    width: 200px;
+    height: 80px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 650px;
+    margin-top: 50px;
+}
